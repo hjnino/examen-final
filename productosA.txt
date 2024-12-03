@@ -1,0 +1,1 @@
+1;Mandarinas;Frutas;80000.0;Frutas2;Frijol;granos;150000.0;granos3;Lentejas;granos;2800.0;granos4;Pera;Fruta;150000.0;Fruta6;Durazno;Fruta;150000.0;Fruta7;Fresas;Fruta;150000.0;Fruta1;Mandarinas;Frutas;80000.0;Frutas2;Frijol;granos;150000.0;granos3;Lentejas;granos;2800.0;granos4;Pera;Fruta;150000.0;Fruta6;Durazno;Fruta;150000.0;Fruta7;Fresas;Fruta;150000.0;Fruta

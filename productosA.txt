@@ -1,1 +1,10 @@
-1;Mandarinas;Frutas;80000.0;Frutas2;Frijol;granos;150000.0;granos3;Lentejas;granos;2800.0;granos4;Pera;Fruta;150000.0;Fruta6;Durazno;Fruta;150000.0;Fruta7;Fresas;Fruta;150000.0;Fruta1;Mandarinas;Frutas;80000.0;Frutas2;Frijol;granos;150000.0;granos3;Lentejas;granos;2800.0;granos4;Pera;Fruta;150000.0;Fruta6;Durazno;Fruta;150000.0;Fruta7;Fresas;Fruta;150000.0;Fruta
+IdProducto;NombreProducto;Categoría;Precio;CantidadDisponible
+4;Lentejas;granos;2500.0;30
+5;Fresa;frutas;1900.0;12
+7;Naranja;frutas;2000.0;40
+8;Garbanzoa;granos;800.0;5
+9;Piña;frutas;2600.0;30
+11;Pescado;carnes;15900.0;29
+12;Quesillo;lacteos;9500.62;23
+1;Uvas;frutas;9500.0;9
+3;Bananas;frutas;300.0;26

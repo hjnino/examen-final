@@ -1,4 +1,11 @@
-Reporte de Inventario
-------------------------------------------------
-------------------------------------------------
-Valor Total del Inventario: 0.0
+Nombre del Producto|Categoría|Precio|Unidades Disponible|Total por producto|
+Pera|frutas|9|$3800.0|$34200.0
+Lentejas|granos|30|$2500.0|$75000.0
+Fresa|frutas|12|$1900.0|$22800.0
+Naranja|frutas|40|$2000.0|$80000.0
+Garbanzoa|granos|5|$800.0|$4000.0
+Piña|frutas|30|$2600.0|$78000.0
+Pescado|carnes|29|$15900.0|$461100.0
+Quesillo|lacteos|23|$9500.62|$218514.26
+
+Valor Total del Inventario: $973614.26
